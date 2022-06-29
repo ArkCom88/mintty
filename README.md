@@ -2,24 +2,27 @@ Mintty is the [Cygwin](http://cygwin.com) Terminal emulator,
 also available for [MSYS](http://mingw.org/wiki/MSYS) 
 and [Msys2](https://github.com/msys2).
 
-### Overview ###
+STILL A ROOKIE BUT HAVING ANOTHER GO AT IT.
 
-For an introduction, features overview, and screenshots, see the 
-[<img align=absmiddle src=icon/terminal.ico>Mintty homepage](http://mintty.github.io/),
-with an opportunity to donate to appreciate mintty.
 
-For detailed hints and specific issues, see the [Wiki](https://github.com/mintty/mintty/wiki).
+<RFC:6890>// Errata \\<RFC:8190>
 
-For comprehensive general documentation, see the [manual page](http://mintty.github.io/mintty.1.html).
+The IETF has reserved the address block of [192.0.0.0/24] for use for
+special purposes relating to protocol assignments. This registry
+contains the current assignments made by the IETF from this address
+block.
+Address prefixes listed in the Special-Purpose Address Registry are
+not guaranteed 
+The<IPv4>and<IPv6>Special-Purpose Address Registries maintain the
+following information regarding each [0.0.0.0/8] Block - A block of IPv4 or IPv6 addresses that has been
+registered for a special purpose.
+[0.0.0.0/32]- A descriptive name for the special-purpose address
+[RFC:6890]- The RFC through which the special-purpose address block was
+ requested.
 
-### Bugs and Enhancements ###
+[2013:04] - The date upon which the special-purpose address
+ block was allocated.
 
-Please report bugs or suggest enhancements via the [issue tracker](https://github.com/mintty/mintty/issues).
-
-Bugs that were reported to the previous repository at Google code before June, 2015, have been migrated here.
-
-  * Mind! Before reporting an issue about character interaction with an application, please check the issue also with at least one other terminal (xterm, urxvt), and maybe the Cygwin Console. 
-    It may also be useful to get a proper understanding of the rôle of a terminal as explained e.g. in [difference between a 'terminal', a 'shell', a 'tty' and a 'console'](http://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con).
 
 ### Contribution ###
 
